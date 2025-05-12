@@ -65,7 +65,7 @@
 + 🏅 Implementé scripts de automatización que redujeron tareas manuales en 50%
 + 📈 Optimicé consultas SQL mejorando el rendimiento en 35% para reportes críticos
 + ☁️ Certificación AWS Cloud Practitioner (2023)
-+ 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
++ 🏆 Reconocimiento "Innovación Tecnológica".
 ```
 ## 🔹 Estadísticas de GitHub  
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Santiago13dev&show_icons=true&theme=radical)  
