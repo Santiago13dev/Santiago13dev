@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-brightgreen?logo=vue.js&logoColor=white)
 
 **Frontend & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
