@@ -26,40 +26,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 1. Gestor de Tareas Personalizado
-**Tecnologías**: `JavaScript` `React` `LocalStorage`  
-✅ **Logros**:  
-- Aplicación funcional para organización personal  
-- Implementación de CRUD completo  
-- Diseño responsive con CSS puro  
-- [Demo en GitHub Pages](https://santiago13dev.github.io/task-manager)  
-
-### 2. Clon de Página Web (Spotify/Netflix)  
-**Tecnologías**: `HTML5` `CSS3` `JavaScript ES6`  
-✨ **Features**:  
-- Réplica interactiva de interfaz popular  
-- Consumo de API pública para mostrar datos reales  
-- Efectos visuales con CSS Animations  
-- [Código abierto](https://github.com/Santiago13dev/web-clone)  
-
-### 3. API REST Básica  
-**Tecnologías**: `Node.js` `Express` `MongoDB`  
-🌟 **Características**:  
-- Endpoints para usuarios y productos  
-- Autenticación JWT básica  
-- Documentación con Swagger  
-- [Postman Collection](https://example.link)  
-
-### 4. Scripts de Automatización  
-**Tecnologías**: `Python` `Bash`  
-🔧 **Funcionalidades**:  
-- Organizador automático de descargas  
-- Convertidor de CSV a JSON  
-- Notificador de precios web (web scraping básico)  
----
-
 ## 🏆 Logros Profesionales
 ```diff
 + 🏅 Implementé scripts de automatización que redujeron tareas manuales en 50%
