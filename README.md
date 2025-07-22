@@ -11,18 +11,34 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
 
 **Frontend & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-17-red?logo=angular&logoColor=white)
 
 **Backend & Cloud**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?logo=vercel&logoColor=white)
 
 **Bases de Datos & BI**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql&logoColor=white)
+
+**Testing**  
+![Jasmine](https://img.shields.io/badge/Testing-Jasmine-8A4182?logo=jasmine&logoColor=white)
+![JUnit](https://img.shields.io/badge/Testing-JUnit-25A162?logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white)
+
+**Herramientas**  
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/API-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Prettier](https://img.shields.io/badge/Format-Prettier-F7B93E?logo=prettier&logoColor=black)
 
 ---
 
