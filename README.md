@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql&logoColor=white)
 
 **Testing**  
-![Jasmine](https://img.shields.io/badge/Testing-Jasmine-8A4182?logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Testing-JUnit-25A162?logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/API-Postman-FF6C37?logo=postman&logoColor=white)
 
