@@ -15,7 +15,7 @@
 
 **Frontend & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Angular](https://img.shields.io/badge/Angular-17-red?logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
 
 **Backend & Cloud**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
